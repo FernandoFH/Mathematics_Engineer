@@ -1,5 +1,5 @@
 # Ingenieria Matemáticas
-  🎓 Roadmap learning Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
+  🎓 Roadmap Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
 
 ### Cursos Básicos
 1. [Digital signal processing](https://www.coursera.org/specializations/digital-signal-processing) 
