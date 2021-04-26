@@ -1,4 +1,4 @@
-# Ingenieria_Matem-tica
+# Ingenieria Matemáticas
   🎓 Roadmap learning Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
 
 ### Cursos Básicos
