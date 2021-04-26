@@ -14,12 +14,12 @@ Anotaciones y Materias para ser Ingeniero Matemático | Basado en en la Carrera 
 13. Optimización
 14. Procesos estocásticos
 
-Área: Matemática Aplicada
+### Área: Matemática Aplicada
 15. Criptografía
 16. Matemática financiera
 17. Modelos probabilísticos: construcción y aplicaciones
  
-Área: Procesamiento de Señales
+### Área: Procesamiento de Señales
 18. Comunicaciones digitales y analógicas
 19. Procesamiento de imágenes
 20. Procesamiento de Señales 
