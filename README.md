@@ -14,14 +14,12 @@
 6. [Simulations](https://www.coursera.org/learn/computers-waves-simulations)
 7. [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 8. [Discrete optimization](https://www.coursera.org/learn/discrete-optimization)
-9. [Procesos estocásticos]https://www.coursera.org/learn/stochasticprocesses
+9. [Procesos estocásticos](https://www.coursera.org/learn/stochasticprocesses)
 
 ### Área: Matemática Aplicada
-15. Criptografía
-16. Matemática financiera
-17. Modelos probabilísticos: construcción y aplicaciones
- 
-### Área: Procesamiento de Señales
-18. Comunicaciones digitales y analógicas
-19. Procesamiento de imágenes
-20. Procesamiento de Señales 
+10. [Mathematical Game Theory](https://www.coursera.org/learn/mathematical-game-theory)    
+11. [Applied Cryptography](https://www.coursera.org/specializations/applied-crypto)
+12. Cryptography
+  - [ ] [Cryptography 1](https://www.coursera.org/learn/crypto)
+  - [ ] [Cryptography 2](https://www.coursera.org/learn/crypto2) 
+13. [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
