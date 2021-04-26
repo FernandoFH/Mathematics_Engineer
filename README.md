@@ -2,17 +2,19 @@
   🎓 Roadmap learning Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
 
 ### Cursos Básicos
-1.  Análisis de Fourier
-2.  Análisis funcional
-3.  Análisis matricial
-4.  Ecuaciones diferenciales en derivadas parciales y aplicaciones
-7.  Ecuaciones diferenciales ordinarias
-8.  Fundamentos de Análisis Matemático
-9.  Introducción al análisis tensorial
-10. Modelos y sistemas I
-12. Modelos probabilísticos: construcción y aplicaciones
-13. Optimización
-14. Procesos estocásticos
+1. [Digital signal processing](https://www.coursera.org/specializations/digital-signal-processing) 
+2. [Functional Programming in Scala](https://www.coursera.org/specializations/scala)
+3. [Calculo Diferencial](https://www.coursera.org/learn/calculo-diferencial) 
+4. Fundamentos de Análisis Matemático 
+  - [ ] [Calculo 1](https://www.coursera.org/learn/calculo-1)
+  - [ ] [Calculo 2](https://www.coursera.org/learn/calculo-2)    
+  - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-3)
+  - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-4)
+5. [Introducción al análisis Numerico](https://www.coursera.org/learn/intro-to-numerical-analysis)
+6. [Simulations](https://www.coursera.org/learn/computers-waves-simulations)
+7. [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
+8. [Discrete optimization](https://www.coursera.org/learn/discrete-optimization)
+9. [Procesos estocásticos]https://www.coursera.org/learn/stochasticprocesses
 
 ### Área: Matemática Aplicada
 15. Criptografía
