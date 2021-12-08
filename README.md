@@ -1,4 +1,6 @@
-# <h3 align="center"> Ingenieria Matemáticas Self-Taught </b> </h3>
+<h3 align="center"> Ingenieria Matemáticas Self-Taught </b> </h3>
+
+----
 
 - Game Theory  [Aqui](https://www.coursera.org/learn/game-theory-1)
 - Game Theory II: Advanced Applications [Aqui](https://www.coursera.org/learn/game-theory-2)
