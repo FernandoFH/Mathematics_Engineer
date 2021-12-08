@@ -1,5 +1,14 @@
-# Ingenieria Matemáticas
-  🎓 Roadmap Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
+# <h3 align="center"> Ingenieria Matemáticas Self-Taught </b> </h3>
+
+- Game Theory  [Aqui](https://www.coursera.org/learn/game-theory-1)
+- Game Theory II: Advanced Applications [Aqui](https://www.coursera.org/learn/game-theory-2)
+- Cryptography I [Aqui](https://www.coursera.org/learn/crypto)
+- Cryptography II [Aqui](https://www.coursera.org/learn/crypto2)
+
+
+https://www.coursera.org/learn/crypto
+
+🎓 Roadmap Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
 
 ### Cursos Básicos
 1. [Digital signal processing](https://www.coursera.org/specializations/digital-signal-processing) 
