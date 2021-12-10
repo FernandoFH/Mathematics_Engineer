@@ -2,7 +2,7 @@
 
 ----
 
-|Course | Link	|  
+|Course | Content	|  
 |------ | -------- | 
 |Game Theory I   |[Aqui](https://www.coursera.org/learn/game-theory-1) |  
 |Game Theory II |   [Aqui](https://www.coursera.org/learn/game-theory-2)  | 
