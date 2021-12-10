@@ -1,19 +1,19 @@
 <h3 align="center"> Ingenieria Matemáticas Self-Taught </b> </h3>
 
 ----
+1. [Digital signal processing](https://www.coursera.org/specializations/digital-signal-processing) 
 
 |Course | Content	|  
 |------ | -------- | 
-|Game Theory I   |[Aqui](https://www.coursera.org/learn/game-theory-1) |  
-|Game Theory II |   [Aqui](https://www.coursera.org/learn/game-theory-2)  | 
-|Cryptography I |   [Aqui](https://www.coursera.org/learn/crypto)  | 
-|Cryptography II  |   [Aqui](https://www.coursera.org/learn/crypto2)  | 
+|Game Theory I   |[Here](https://www.coursera.org/learn/game-theory-1) |  
+|Game Theory II |   [Here](https://www.coursera.org/learn/game-theory-2)  | 
+|Cryptography I |   [Here](https://www.coursera.org/learn/crypto)  | 
+|Cryptography II  |   [Here](https://www.coursera.org/learn/crypto2)  | 
 
 
 🎓 Roadmap Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
 
 ### Cursos Básicos
-1. [Digital signal processing](https://www.coursera.org/specializations/digital-signal-processing) 
 2. [Functional Programming in Scala](https://www.coursera.org/specializations/scala)
 3. [Introducción al análisis Numerico](https://www.coursera.org/learn/intro-to-numerical-analysis)
 4. Fundamentos de Análisis Matemático 
