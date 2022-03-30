@@ -1,4 +1,4 @@
-<h3 align="center"> Ingenieria Matemáticas Self-Taught </b> </h3>
+<h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
 ----
 1. [Digital signal processing](https://www.coursera.org/specializations/digital-signal-processing) 
