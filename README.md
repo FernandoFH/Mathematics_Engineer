@@ -1,11 +1,14 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
+| [Game Theory](./GameTheory) | Game Theory I   | [Here](https://www.coursera.org/learn/game-theory-1) |  
+| [Digital Signal](./DigitalSignal) | Digital signal processing | [Here](https://www.coursera.org/specializations/digital-signal-processing) 
+
+
 [Analisis funcional](./Analisis_funcional)
-1. [Digital signal processing](https://www.coursera.org/specializations/digital-signal-processing) 
+
 
 |Course | Content	|  
 |------ | -------- | 
-|Game Theory I   |[Here](https://www.coursera.org/learn/game-theory-1) |  
 |Game Theory II |   [Here](https://www.coursera.org/learn/game-theory-2)  | 
 |Cryptography I |   [Here](https://www.coursera.org/learn/crypto)  | 
 |Cryptography II  |   [Here](https://www.coursera.org/learn/crypto2)  | 
