@@ -28,7 +28,6 @@
 9. [Procesos estocásticos](https://www.coursera.org/learn/stochasticprocesses)
 
 ### Área: Matemática Aplicada
-10. [Mathematical Game Theory](https://www.coursera.org/learn/mathematical-game-theory)    
 11. Cryptography
   - [ ] [Cryptography 1](https://www.coursera.org/learn/crypto)
   - [ ] [Cryptography 2](https://www.coursera.org/learn/crypto2) 
