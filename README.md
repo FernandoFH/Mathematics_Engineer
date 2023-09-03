@@ -4,8 +4,7 @@
 |------ | -------- | 
 | [Game Theory](./GameTheory) | [Here](https://www.coursera.org/learn/game-theory-1) |  
 | [Analisis funcional](./Analisis_funcional) | [Here](./Analisis_funcional) |  
-
-  - [ ] [Calculo 1](https://www.coursera.org/learn/calculo-1)
+| [Calculo 1](./Calculo1) | [Here](./Calculo1)  |  
 
 |Course | Content	|  
 |------ | -------- | 
@@ -13,13 +12,13 @@
 |Cryptography I |   [Here](https://www.coursera.org/learn/crypto)  | 
 |Cryptography II  |   [Here](https://www.coursera.org/learn/crypto2)  | 
 
-🎓 Roadmap Ingeniero Matemático [Maestria UBA](http://www.fi.uba.ar/es/node/419)
+🎓 Roadmap Ingeniero Matemático [Maestria UBA](https://www.fi.uba.ar/posgrado/maestrias/ingenieria-matematica/plan-de-estudios)
 
 ### Cursos Básicos
 2. [Functional Programming in Scala](https://www.coursera.org/specializations/scala)
 3. [Introducción al análisis Numerico](https://www.coursera.org/learn/intro-to-numerical-analysis)
 4. Fundamentos de Análisis Matemático 
-  - [ ] [Calculo 1](https://www.coursera.org/learn/calculo-1)
+  - [ ] [Calculo 1](https://www.coursera.org/learn/calculo-1) ✔️
   - [ ] [Calculo 2](https://www.coursera.org/learn/calculo-2)    
   - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-3)
   - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-4)
