@@ -4,11 +4,8 @@
 |Course | Source	|  
 |------ | -------- | 
 | [Game Theory](./GameTheory) | [Here](https://www.coursera.org/learn/game-theory-1) |  
-| [Digital Signal](./DigitalSignal) | [Here](https://www.coursera.org/specializations/digital-signal-processing) | 
-
 
 [Analisis funcional](./Analisis_funcional)
-
 
 |Course | Content	|  
 |------ | -------- | 
@@ -39,3 +36,36 @@
   - [ ] [Cryptography 2](https://www.coursera.org/learn/crypto2) 
 12. [Applied Cryptography](https://www.coursera.org/specializations/applied-crypto)
 13. [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+
+
+Ingeniería Matemática - Plan de estudios
+Aprobar ocho (8) cursos entre básicos y avanzados.
+Aprobar dos (2) cursos relacionados con el área en la cual se desarrollará la tesis, completando entre los dos no menos de 160 horas.
+
+
+Análisis de Fourier
+Análisis funcional
+Análisis matricial
+Análisis numérico avanzado
+Cálculo de variaciones
+Ecuaciones diferenciales en derivadas parciales y aplicaciones
+Ecuaciones diferenciales ordinarias
+Fundamentos de Análisis Matemático
+Introducción al análisis tensorial
+Introducción al método de elementos finitos
+Modelos y sistemas I
+Modelos probabilísticos: construcción y aplicaciones
+Optimización
+Procesos estocásticos
+Señales y sistemas
+Teoría de aproximación e interpolación
+Teoría de la medida e integración
+Teoría de operadores
+
+
+Área: Matemática Aplicada
+Criptografía
+Matemática financiera
+Teoría de probabilidades
+Seminario I
+Seminario II
