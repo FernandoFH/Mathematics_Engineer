@@ -1,5 +1,10 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
+- Octave
+- CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
+- CÁLCULO DE VARIAS VARIABLES
+
+
 |Course | Source	|  
 |------ | -------- | 
 | [Game Theory](./GameTheory) | [Here](https://www.coursera.org/learn/game-theory-1) |  
