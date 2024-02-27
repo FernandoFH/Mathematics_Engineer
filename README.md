@@ -1,9 +1,9 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
-- Octave
-- CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
-- CÁLCULO DE VARIAS VARIABLES
-
+- PRE-REQUISITE 
+  - [Octave](./Octave)
+  - CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
+  - CÁLCULO DE VARIAS VARIABLES
 
 |Course | Source	|  
 |------ | -------- | 
