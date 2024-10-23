@@ -5,6 +5,10 @@
   - CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
   - CÁLCULO DE VARIAS VARIABLES
 
+
+https://github.com/FernandoFH/numerical-linear-algebra
+https://www.fast.ai/posts/2017-07-17-num-lin-alg.html
+
 |Course | Source	|  
 |------ | -------- | 
 | [Game Theory](./GameTheory) | [Here](https://www.coursera.org/learn/game-theory-1) |  
