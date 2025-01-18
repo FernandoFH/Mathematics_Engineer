@@ -33,7 +33,7 @@ https://www.fast.ai/posts/2017-07-17-num-lin-alg.html
   - [ ] [Calculo 2](https://www.coursera.org/learn/calculo-2)    
   - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-3)
   - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-4)
-5 . [Calculo Diferencial](https://www.coursera.org/learn/calculo-diferencial) 
+5. [Calculo Diferencial](https://www.coursera.org/learn/calculo-diferencial) 
 6. [Simulations](https://www.coursera.org/learn/computers-waves-simulations)
 7. [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 8. [Discrete optimization](https://www.coursera.org/learn/discrete-optimization)
