@@ -10,11 +10,15 @@ Everything You Always Wanted To Know About Mathematics
 
 - Everything You Always Wanted To Know About Mathematics [Paper](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
+### Semestre 1 | ENE - MAY 2025
+
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
 | [Game Theory](./GameTheory)                | [Here](https://www.coursera.org/learn/game-theory-1) |
 | [Analisis funcional](./Analisis_funcional) | [Here](./Analisis_funcional)                         |
 | [Calculo 1](./Calculo1)                    | [Here](./Calculo1)                                   |
+
+---
 
 | Course          | Content                                              |
 | --------------- | ---------------------------------------------------- |
@@ -34,8 +38,8 @@ Everything You Always Wanted To Know About Mathematics
 - [ ] [Calculo 2](https://www.coursera.org/learn/calculo-2)
 - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-3)
 - [ ] [Calculo 3](https://www.coursera.org/learn/calculo-4)
-      5 . [Calculo Diferencial](https://www.coursera.org/learn/calculo-diferencial)
 
+5. [Calculo Diferencial](https://www.coursera.org/learn/calculo-diferencial)
 6. [Simulations](https://www.coursera.org/learn/computers-waves-simulations)
 7. [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 8. [Discrete optimization](https://www.coursera.org/learn/discrete-optimization)
