@@ -6,9 +6,12 @@
   - CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
   - CÁLCULO DE VARIAS VARIABLES
 
-Everything You Always Wanted To Know About Mathematics
+### Everything You Always Wanted To Know About Mathematics
 
 - Everything You Always Wanted To Know About Mathematics [Paper](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+
+### Alysis 1 y 2, Terrens Tao
+- https://github.com/FernandoFH/taoanalysissolutions
 
 ### Semestre 1 | ENE - MAY 2025
 
