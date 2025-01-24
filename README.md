@@ -1,6 +1,6 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
-### PRE-REQUISITE
+### Pre-requisite
 
 - [Octave](./Octave)
 - CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
@@ -10,11 +10,11 @@
 
 - Everything You Always Wanted To Know About Mathematics [Paper](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md)
 
-### Alysis 1 y 2, Terrens Tao
+### Analisis 1 y 2, Terrens Tao
 
 - https://github.com/FernandoFH/taoanalysissolutions
 
-### Semestre 1 | JAN - MAY 2025
+### Semestre 1 | FEBRUARY - APRIL 2025
 
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
