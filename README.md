@@ -8,7 +8,7 @@
 
 ### Everything You Always Wanted To Know About Mathematics
 
-- Everything You Always Wanted To Know About Mathematics [Paper](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+- Everything You Always Wanted To Know About Mathematics [Paper](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md)
 
 ### Alysis 1 y 2, Terrens Tao
 
