@@ -10,9 +10,17 @@
 
 - Everything You Always Wanted To Know About Mathematics [Paper](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md)
 
-### Analisis 1 y 2, Terrens Tao
+### Analysis I and II by Terence Tao
 
 - https://github.com/FernandoFH/taoanalysissolutions
+
+### Numerical linear algebra
+
+- https://github.com/FernandoFH/numerical-linear-algebra
+
+### DataScience Interactive Python
+
+- https://github.com/FernandoFH/DataScience_Interactive_Python
 
 ### Semestre 1 | FEBRUARY - APRIL 2025
 
