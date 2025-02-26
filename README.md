@@ -1,14 +1,16 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
-### Pre-requisite
+### Semestre 1 | FEBRUARY - APRIL 2025
 
-- [Octave](./Octave)
+| Date   | Course                                                                                                           | Content                                      |
+| ------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 25-Feb | Octave/Matlab                                                                                                    | [Notes](./Octave/README.md)                  |
+|        | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md) |
+
 - CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
 - CÁLCULO DE VARIAS VARIABLES
 
-### Everything You Always Wanted To Know About Mathematics
-
-- Everything You Always Wanted To Know About Mathematics [Paper](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md)
+---
 
 ### Analysis I and II by Terence Tao
 
@@ -18,11 +20,25 @@
 
 - https://github.com/FernandoFH/numerical-linear-algebra
 
+### Numerical Optimization - Shirish Shevade | IISc - NPTEL
+
+- https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P
+
 ### DataScience Interactive Python
 
 - https://github.com/FernandoFH/DataScience_Interactive_Python
 
-### Semestre 1 | FEBRUARY - APRIL 2025
+### MIT - Statistics 110: Probability
+
+https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
+### Matrix Calculus
+
+https://www.youtube.com/playlist?list=PLhcN-s3_Z7-YS6ltpJhjwqvHO1TYDbiZv
+
+### MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE
 
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
