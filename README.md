@@ -32,13 +32,17 @@
 
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+### Harvard — Probability Theory
+
+- [Course Notes](./Repos/ProbabilityTheory_Harvard.pdf)
+
 ### Matrix Calculus
 
-https://www.youtube.com/playlist?list=PLhcN-s3_Z7-YS6ltpJhjwqvHO1TYDbiZv
+- https://www.youtube.com/playlist?list=PLhcN-s3_Z7-YS6ltpJhjwqvHO1TYDbiZv
 
 ### MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023
 
-https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE
+- https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE
 
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
