@@ -44,6 +44,10 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE
 
+### EE263 - Introduction to Linear Dynamical Systems
+
+- https://see.stanford.edu/Course/EE263
+
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
 | [Game Theory](./GameTheory)                | [Here](https://www.coursera.org/learn/game-theory-1) |
