@@ -1,16 +1,12 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
-### Semestre 1 | FEBRUARY - APRIL 2025
+### Semestre 1 | APRIL 2025
 
-| Date   | Course                                                                                                           | Content                                      |
-| ------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 25-Feb | Octave/Matlab                                                                                                    | [Notes](./Octave/README.md)                  |
-|        | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md) |
-
-- CÁLCULO DE UNA VARIABLE TRASCENDENTES TEMPRANAS
-- CÁLCULO DE VARIAS VARIABLES
-
----
+| Date   | Course                                                                                                           | Content                                      | Process |
+| ------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------- |
+| 17-Abr | Octave/Matlab                                                                                                    | [Notes](./Octave/README.md)                  |         |
+|        | Octave/Matlab - EDX                                                                                              |                                              |         |
+|        | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md) |         |
 
 ### Analysis I and II by Terence Tao
 
@@ -120,3 +116,22 @@ Matemática financiera
 Teoría de probabilidades
 Seminario I
 Seminario II
+
+---
+
+| Date       | Specialization                                                                                                                                                 | Course                                                                                             | Status |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------ |
+| 13/08/2024 | [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |                                                                                                    | 🟡     |
+| 13/08/2024 |                                                                                                                                                                | [Linear Algebra for Machine Learning and Data Science](./Linear_Algebra/README.md)                 | 🟡     |
+|            |                                                                                                                                                                | [Calculus for Machine Learning and Data Science ](./Calculus/README.md)                            |        |
+|            |                                                                                                                                                                | [Probability & Statistics for Machine Learning & Data Science](./Probability_Statistics/README.md) |        |
+
+\*\* https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
+
+- https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science
+- https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science
+- https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science
+
+- Matrices
+- Algebra Lineal
+- Calculo Diferencia
