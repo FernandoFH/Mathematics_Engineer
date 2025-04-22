@@ -11,6 +11,7 @@
 ### Analysis I and II by Terence Tao
 
 - https://github.com/FernandoFH/taoanalysissolutions
+- https://terrytao.wordpress.com/wp-content/uploads/2016/12/linear-algebra-notes.pdf
 
 ### Numerical linear algebra
 
@@ -135,3 +136,16 @@ Seminario II
 - Matrices
 - Algebra Lineal
 - Calculo Diferencia
+
+* Algebra lineal
+* Calculo multivariable
+* Probabilidad y estadística
+* Matrices y tensores
+* Gradientes
+* Métodos cuantitativos
+* Teoría de la información
+* Aritmética de punto flotante
+* Cuantificación digital
+* Arquitectura de CPUs y emsamblador
+* Estructuras de datos
+* Paralelización
