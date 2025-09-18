@@ -53,6 +53,10 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw
 
+### MIT 18.100B Real Analysis, Spring 2025
+
+- https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG
+
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
 | [Game Theory](./GameTheory)                | [Here](https://www.coursera.org/learn/game-theory-1) |
