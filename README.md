@@ -94,6 +94,10 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 11. Cryptography
 
+- Introduction to Applied Cryptography Specialization
+
+  - https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/specializations/introduction-applied-cryptography
+
 - [ ] [Cryptography 1](https://www.coursera.org/learn/crypto)
 - [ ] [Cryptography 2](https://www.coursera.org/learn/crypto2)
 
