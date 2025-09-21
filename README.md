@@ -40,6 +40,8 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 ### MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023
 
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE
+  - Essence of calculus
+    - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
 ### EE263 - Introduction to Linear Dynamical Systems
 
@@ -56,6 +58,28 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 ### MIT 18.100B Real Analysis, Spring 2025
 
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG
+
+MIT 18.01 Single Variable Calculus, Fall 2006
+https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
+
+MIT 18.02 Multivariable Calculus, Fall 2007
+https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
+
+Probability and statistics-MIT
+https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
+
+### MIT 18.06 Linear Algebra, Spring 2005
+
+- https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+
+  - Essence of linear algebra
+    - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+MIT 18.404J Theory of Computation, Fall 2020
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+
+MIT 6.042J Mathematics for Computer Science, Fall 2010
+https://www.youtube.com/playlist?list=PLB7540DEDD482705B
 
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
