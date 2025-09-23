@@ -2,11 +2,12 @@
 
 ### Semestre 1 | APRIL 2025
 
-| Start    | End | Course                                                                                                           | Content                                      | Process |
-| -------- | --- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------- |
-| 15/05/25 |     | Octave/Matlab                                                                                                    | [Notes](./Octave/README.md)                  |         |
-|          |     | Octave/Matlab - EDX                                                                                              |                                              |         |
-|          |     | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) | [Notes](./EverythingYouWantedKnow/README.md) |         |
+| Start    | End | Course                                                                                                                                            | Content                                      | Process |
+| -------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------- |
+| 15/05/25 |     | Octave/Matlab                                                                                                                                     | [Notes](./Octave/README.md)                  |         |
+|          |     | Octave/Matlab - EDX                                                                                                                               |                                              |         |
+|          |     | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)                                  | [Notes](./EverythingYouWantedKnow/README.md) |         |
+|          |     | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | [Notes](./DiscreteMathematics/README.md)     |         |
 
 ### Analysis I and II by Terence Tao
 
