@@ -1,10 +1,10 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
-### Semestre 1 | APRIL 2025
+### Semestre 1 | Sep 2025
 
 | Start    | End | Course                                                                                                                                            | Content                                      | Process |
 | -------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------- |
-| 15/05/25 |     | Octave/Matlab                                                                                                                                     | [Notes](./Octave/README.md)                  |         |
+| 24/09/25 |     | Octave/Matlab                                                                                                                                     | [Notes](./Octave/README.md)                  |         |
 |          |     | Octave/Matlab - EDX                                                                                                                               |                                              |         |
 |          |     | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)                                  | [Notes](./EverythingYouWantedKnow/README.md) |         |
 |          |     | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | [Notes](./DiscreteMathematics/README.md)     |         |
@@ -21,6 +21,10 @@
 ### Numerical Optimization - Shirish Shevade | IISc - NPTEL
 
 - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P
+
+### Convex Optimization
+
+- [Notes](./ConvexOptimization/README.md)
 
 ### DataScience Interactive Python
 
@@ -44,6 +48,14 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
   - Essence of calculus
     - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
+### ENGR108: Introduction to Matrix Methods
+
+- https://stanford.edu/class/engr108/
+
+### EE263: Matrix Methods: Singular Value Decomposition
+
+- https://ee263.stanford.edu/
+
 ### EE263 - Introduction to Linear Dynamical Systems
 
 - https://see.stanford.edu/Course/EE263
@@ -60,14 +72,17 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG
 
-MIT 18.01 Single Variable Calculus, Fall 2006
-https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
+### MIT 18.01 Single Variable Calculus, Fall 2006
 
-MIT 18.02 Multivariable Calculus, Fall 2007
-https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
+- https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
 
-Probability and statistics-MIT
-https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
+### MIT 18.02 Multivariable Calculus, Fall 2007
+
+- https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
+
+### Probability and statistics-MIT
+
+- https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
 
 ### MIT 18.06 Linear Algebra, Spring 2005
 
@@ -76,11 +91,17 @@ https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
   - Essence of linear algebra
     - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-MIT 18.404J Theory of Computation, Fall 2020
-https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+### MIT 18.404J Theory of Computation, Fall 2020
 
-MIT 6.042J Mathematics for Computer Science, Fall 2010
-https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+- https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+
+### MIT 6.042J Mathematics for Computer Science, Fall 2010
+
+- https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+
+### EE363: Linear Dynamical Systems
+
+- https://stanford.edu/class/ee363/index.html
 
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
