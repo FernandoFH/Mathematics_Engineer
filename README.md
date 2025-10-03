@@ -106,16 +106,9 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 | Course                                     | Source                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
 | [Game Theory](./GameTheory)                | [Here](https://www.coursera.org/learn/game-theory-1) |
+| Game Theory II                             | [Here](https://www.coursera.org/learn/game-theory-2) |
 | [Analisis funcional](./Analisis_funcional) | [Here](./Analisis_funcional)                         |
 | [Calculo 1](./Calculo1)                    | [Here](./Calculo1)                                   |
-
----
-
-| Course          | Content                                              |
-| --------------- | ---------------------------------------------------- |
-| Game Theory II  | [Here](https://www.coursera.org/learn/game-theory-2) |
-| Cryptography I  | [Here](https://www.coursera.org/learn/crypto)        |
-| Cryptography II | [Here](https://www.coursera.org/learn/crypto2)       |
 
 🎓 Roadmap Ingeniero Matemático [Maestria UBA](https://www.fi.uba.ar/posgrado/maestrias/ingenieria-matematica/plan-de-estudios)
 
@@ -140,15 +133,18 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 11. Cryptography
 
-- Introduction to Applied Cryptography Specialization
+- [Cryptography](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/cryptography)
 
-  - https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/specializations/introduction-applied-cryptography
+12. [Introduction to Applied Cryptography Specialization](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/specializations/introduction-applied-cryptography)
 
 - [ ] [Cryptography 1](https://www.coursera.org/learn/crypto)
 - [ ] [Cryptography 2](https://www.coursera.org/learn/crypto2)
 
-12. [Applied Cryptography](https://www.coursera.org/specializations/applied-crypto)
-13. [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+12. [Applied Cryptography Specialization](https://www.coursera.org/specializations/applied-crypto)
+
+13. [Asymmetric Cryptography and Key Management](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/asymmetric-crypto)
+
+14. [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 Ingeniería Matemática - Plan de estudios
 Aprobar ocho (8) cursos entre básicos y avanzados.
