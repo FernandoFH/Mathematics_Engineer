@@ -9,6 +9,11 @@
 |           |     | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)                                  | [Notes](./EverythingYouWantedKnow/README.md) |         |
 |           |     | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | [Notes](./DiscreteMathematics/README.md)     |         |
 
+### LateX
+
+`pdflatex HelloWorld.tex`
+`rm *.aux *.log *.out`
+
 ### Analysis I and II by Terence Tao
 
 - https://github.com/FernandoFH/taoanalysissolutions

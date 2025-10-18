@@ -1,0 +1,57 @@
+\documentclass[12pt,a4paper]{article}
+
+% Codificación y tipografía
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+
+% Paquetes matemáticos y teoremas
+\usepackage{amsmath,amssymb,amsthm}
+\newtheorem{theorem}{Teorema}
+
+% Gráficos y TikZ
+\usepackage{graphicx}
+\usepackage{tikz}
+
+% Hipervínculos
+\usepackage[hidelinks]{hyperref}
+
+\title{Documento de prueba para extensión TeX}
+\author{Prueba}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Introducción}
+Texto con caracteres Unicode: ñ, á, é, ü. Esto sirve para comprobar codificación y render.
+
+\section{Matemáticas}
+Ejemplo inline: \(e^{i\pi} + 1 = 0\).
+
+Ejemplo en display:
+\[
+  I = \int_{0}^{\infty} e^{-x^2}\,dx = \frac{\sqrt{\pi}}{2}.
+\]
+
+\begin{theorem}[Ejemplo]
+Sea \(f\) continua en \([a,b]\). Entonces \(f\) alcanza un máximo en \([a,b]\).
+\end{theorem}
+
+\section{Gráficos}
+Figura generada con TikZ (compilar con pdflatex/xelatex):
+
+\begin{center}
+\begin{tikzpicture}[scale=1]
+  \draw[->] (-0.5,0) -- (3.5,0) node[right] {$x$};
+  \draw[->] (0,-0.5) -- (0,3.5) node[above] {$y$};
+  \draw[domain=0:3,smooth,variable=\x,blue] plot ({\x},{0.5*\x*\x});
+  \node at (2.5,3.2) {$y = 0.5 x^2$};
+\end{tikzpicture}
+\end{center}
+
+\section{Referencias internas}
+Vea el Teorema \ref{sec:theoremref} % ejemplo de referencia (no existe etiqueta real)
+
+\end{document}
