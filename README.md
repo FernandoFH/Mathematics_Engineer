@@ -22,6 +22,7 @@
 ### Numerical linear algebra
 
 - https://github.com/FernandoFH/numerical-linear-algebra
+- https://www.coursera.org/learn/introduction-to-linear-algebra
 
 ### Numerical Optimization - Shirish Shevade | IISc - NPTEL
 
@@ -92,7 +93,6 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 ### MIT 18.06 Linear Algebra, Spring 2005
 
 - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
-
   - Essence of linear algebra
     - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
@@ -174,7 +174,8 @@ Teoría de aproximación e interpolación
 Teoría de la medida e integración
 Teoría de operadores
 
-Área: Matemática Aplicada
+## Área: Matemática Aplicada
+
 Criptografía
 Matemática financiera
 Teoría de probabilidades
