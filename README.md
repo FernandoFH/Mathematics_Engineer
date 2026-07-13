@@ -1,18 +1,13 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
-### Semestre 1 | Sep 2025
+### Semestre 1 | Marzo 2026
 
-| Start     | End | Course                                                                                                                                            | Content                                      | Process |
-| --------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------- |
-| 06/OCT/25 |     | Octave/Matlab                                                                                                                                     | [Notes](./Octave/README.md)                  |         |
-|           |     | Octave/Matlab - EDX                                                                                                                               |                                              |         |
-|           |     | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)                                  | [Notes](./EverythingYouWantedKnow/README.md) |         |
-|           |     | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | [Notes](./DiscreteMathematics/README.md)     |         |
-
-### LateX
-
-`pdflatex HelloWorld.tex`
-`rm *.aux *.log *.out`
+| Start | End | Course                                                                                                                                            | Content                                      | Process |
+| ----- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------- |
+|       |     | Octave/Matlab                                                                                                                                     | [Notes](./Octave/README.md)                  |         |
+|       |     | Octave/Matlab - EDX                                                                                                                               |                                              |         |
+|       |     | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)                                  | [Notes](./EverythingYouWantedKnow/README.md) |         |
+|       |     | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | [Notes](./DiscreteMathematics/README.md)     |         |
 
 ### Analysis I and II by Terence Tao
 
@@ -23,6 +18,12 @@
 
 - https://github.com/FernandoFH/numerical-linear-algebra
 - https://www.coursera.org/learn/introduction-to-linear-algebra
+  - Essence of linear algebra
+    - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+### MIT 18.06 Linear Algebra, Spring 2005
+
+- https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
 
 ### Numerical Optimization - Shirish Shevade | IISc - NPTEL
 
@@ -36,13 +37,15 @@
 
 - https://github.com/FernandoFH/DataScience_Interactive_Python
 
-### MIT - Statistics 110: Probability
+### Harvard University - Statistics 110: Probability
 
-https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
-
-### Harvard — Probability Theory
+- [Course Playlist](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 
 - [Course Notes](./Repos/ProbabilityTheory_Harvard.pdf)
+
+### Probability and statistics - MIT
+
+- https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
 
 ### Matrix Calculus
 
@@ -86,16 +89,6 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 - https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
 
-### Probability and statistics-MIT
-
-- https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
-
-### MIT 18.06 Linear Algebra, Spring 2005
-
-- https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
-  - Essence of linear algebra
-    - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-
 ### MIT 18.404J Theory of Computation, Fall 2020
 
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
@@ -103,6 +96,7 @@ https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 ### MIT 6.042J Mathematics for Computer Science, Fall 2010
 
 - https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+- https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_textbook.pdf
 
 ### EE363: Linear Dynamical Systems
 

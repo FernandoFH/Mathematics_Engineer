@@ -9,3 +9,7 @@
 ### EE364b - Convex Optimization II
 
 - https://stanford.edu/class/ee364b/
+
+### Convex Optimization - Stephen Boyd, Stanford
+
+- https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
