@@ -1,6 +1,6 @@
 <h1 align="center"> Ingenieria Matemáticas </b> </h1>
 
-### Semestre 1 | Marzo 2026
+### Semestre 1 | Agosto 2026
 
 | Start | End | Course                                                                                                                                            | Content                                      | Process |
 | ----- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------- |
@@ -8,6 +8,25 @@
 |       |     | Octave/Matlab - EDX                                                                                                                               |                                              |         |
 |       |     | [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)                                  | [Notes](./EverythingYouWantedKnow/README.md) |         |
 |       |     | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | [Notes](./DiscreteMathematics/README.md)     |         |
+
+## 📑 Índice de Carpetas
+
+| Tema | Carpeta |
+| ---- | ------- |
+| Análisis Funcional | [./AnalisisFuncional](./AnalisisFuncional/README.md) |
+| Análisis Tensorial | [./AnalisisTensorial](./AnalisisTensorial) |
+| Probability & Statistics | [./Probability](./Probability/README.md) |
+| Procesos Estocásticos | [./ProcesosEstocasticos](./ProcesosEstocasticos) |
+| Real Analysis | [./RealAnalysis](./RealAnalysis) |
+| Cálculo | [./Calculo](./Calculo) |
+| Convex Optimization | [./ConvexOptimization](./ConvexOptimization/README.md) |
+| Discrete Mathematics | [./DiscreteMathematics](./DiscreteMathematics/README.md) |
+| Digital Signal | [./DigitalSignal](./DigitalSignal) |
+| Game Theory | [./GameTheory](./GameTheory) |
+| Octave / Matlab | [./Octave](./Octave/README.md) |
+| PDF / Notas | [./Repos](./Repos) |
+
+---
 
 ### Analysis I and II by Terence Tao
 
@@ -37,15 +56,9 @@
 
 - https://github.com/FernandoFH/DataScience_Interactive_Python
 
-### Harvard University - Statistics 110: Probability
+### Probability
 
-- [Course Playlist](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-
-- [Course Notes](./Repos/ProbabilityTheory_Harvard.pdf)
-
-### Probability and statistics - MIT
-
-- https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
+- 📁 Referencias consolidadas: [Probability](./Probability/README.md)
 
 ### Matrix Calculus
 
@@ -68,10 +81,6 @@
 ### EE263 - Introduction to Linear Dynamical Systems
 
 - https://see.stanford.edu/Course/EE263
-
-### MIT 18.102 Introduction to Functional Analysis, Spring 2021
-
-- https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_
 
 ### MIT 18.100A Real Analysis, Fall 2020
 
@@ -106,8 +115,8 @@
 | ------------------------------------------ | ---------------------------------------------------- |
 | [Game Theory](./GameTheory)                | [Here](https://www.coursera.org/learn/game-theory-1) |
 | Game Theory II                             | [Here](https://www.coursera.org/learn/game-theory-2) |
-| [Analisis funcional](./Analisis_funcional) | [Here](./Analisis_funcional)                         |
-| [Calculo 1](./Calculo1)                    | [Here](./Calculo1)                                   |
+| [Analisis funcional](./AnalisisFuncional)  | [Here](./AnalisisFuncional/README.md)                |
+| [Calculo 1](./Calculo)                     | [Here](./Calculo)                                    |
 
 🎓 Roadmap Ingeniero Matemático [Maestria UBA](https://www.fi.uba.ar/posgrado/maestrias/ingenieria-matematica/plan-de-estudios)
 
@@ -192,3 +201,6 @@ Seminario II
 * Arquitectura de CPUs y emsamblador
 * Estructuras de datos
 * Paralelización
+
+- Teoria de conjuntos
+- Topologia algebraica
